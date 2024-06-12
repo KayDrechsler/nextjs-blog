@@ -1,3 +1,4 @@
+![image](https://github.com/KayDrechsler/nextjs-blog/assets/4559673/3a2ca0b7-db54-4c14-add9-3882dd9d3c81)
 
 
 # Next.js - Blog
