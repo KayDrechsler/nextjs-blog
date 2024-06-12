@@ -48,6 +48,8 @@ Execute `npm run dev` within the root directory and open up `http://localhost:30
 - React.js
 - Next.js
 - MongoDB
+- Markdown
 
 ## Todos
 - [ ] Whitelist the server once the application would be deployed to grant access to MongoDB. Currently this is just working locally on my personal machine since I whitelisted it already. If you want to run this code on your local machine you will need to create your own MongoDB and link the application to it.
+- [ ] Add frontend side error handling on the contact form. Currently just backend side validation is present due to the demo nature of this project.
